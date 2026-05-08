@@ -92,11 +92,7 @@ Built an interactive dashboard with filters for gender, subscription status, cat
 ├── sql/                # SQL queries
 ├── dashboard/          # Power BI file (.pbix)
 └── README.md
-
-
-
-<img width="1295" height="730" alt="Dashboard SS" src="https://github.com/user-attachments/assets/847adf20-4793-4abc-ab62-f1b93245cb73" />
-
-
-
 ```
+
+<img width="1295" height="730" alt="Dashboard SS" src="https://github.com/user-attachments/assets/e4d6cb0a-76dc-4507-a730-5b18d4ad35bb" />
+
